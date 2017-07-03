@@ -1,0 +1,22 @@
+.main-grouping-top{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.main-grouping-bottom{
+  margin: auto;
+  width: 66%;
+  padding: 10px;
+}
+.main-grouping-right{
+  margin: auto;
+  padding: 40px;
+}
+.main-grouping-left{
+  margin: auto;
+  float: left;
+  padding: 40px;
+}
+.clear{
+  clear:both;
+}
